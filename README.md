@@ -1,2 +1,2 @@
 # VdoChain :lock:
-Video Conferencing App using Blockchain
+Video Conferencing App using Blockchain.
