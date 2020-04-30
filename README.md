@@ -1,5 +1,5 @@
-# VdoChain :lock:
-Video Conferencing App using Blockchain
+# TaxChain :lock:
+Tax Compliance App using Blockchain
 
 ## Stack
 * Nodejs
