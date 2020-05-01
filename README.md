@@ -2,10 +2,7 @@
 Tax Compliance App using Blockchain
 
 ## Stack
-* Nodejs
-* Solidity
-* Web3.js
-* WebRTC
+
 
 ## Team
 * [Toseef Khan](https://github.com/toseefkhan403)
